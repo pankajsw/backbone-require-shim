@@ -1,0 +1,5 @@
+.DS_Store
+/app-min.js
+/node_modules
+*.sublime-project
+*.sublime-workspace
